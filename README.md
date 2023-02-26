@@ -1,7 +1,7 @@
 # my-first-repo
 
 **About me **
-```
+
 {
   "firstName": "Ahmad ",
   "lastName": "Badran",
