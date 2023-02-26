@@ -1,12 +1,13 @@
 # my-first-repo
 
 **About me **
-
-{
-  "firstName": "Ahmad ",
+```
+ {
+ "firstName": "Ahmad ",
   "lastName": "Badran",
   "age": 22
-}
+  }
+```
 ![Background](https://user-images.githubusercontent.com/84791995/221218486-f056b8a5-d5d1-43df-a7db-7e646f9dc6fa.png)
 
 
