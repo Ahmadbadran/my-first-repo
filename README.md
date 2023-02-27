@@ -12,9 +12,10 @@
 
 
 [Portfolio](https://Ahmadbadran.info)
+[Portfolio](https://Ahmadbadran.info)
 [linkedIn](https://www.linkedin.com/in/ahmad-badran-19b27520a/)
 [facebook](https://www.facebook.com/profile.php?id=100004034184498):joy:
-
+:joy:
 
 
 
